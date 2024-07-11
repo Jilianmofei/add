@@ -1,0 +1,10 @@
+train: ./images/train
+val: ./images/val
+test: ./images/val
+
+path: H:/Cache/PyThon的储存/机器学习/apple4/apple_dataset5
+
+
+names:
+  0: apple
+  1: damaged_apple
